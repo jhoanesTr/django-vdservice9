@@ -1,0 +1,17 @@
+$primary: #ffc107;
+$secondary: #1E243B;
+$custom-nav-link-color: #ffffff7e;
+
+$theme-colors: (
+        "primary": $primary,
+        "secondary": $secondary,
+);
+
+//Nav
+$nav-link-color: #ffffff7e;
+$nav-link-font-weight: 600;
+$nav-link-hover-color: #ffc107;
+//General<body>
+$body-color: white;
+
+@import "bootstrap/scss/bootstrap";
